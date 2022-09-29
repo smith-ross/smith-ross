@@ -1,2 +1,4 @@
 # Ross
-Year 2 Software Engineering @ University of Glasgow
+### University of Glasgow
+#### Software Engineering
+Year 2
