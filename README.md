@@ -1,5 +1,5 @@
 # Hi, I'm Ross! 👋
-Currently studying Software Engineering <sup>(Year 2)</sup> at <a href="https://www.gla.ac.uk/">University of Glasgow</a>
+Currently studying Software Engineering <sup>(Year 3)</sup> at <a href="https://www.gla.ac.uk/">University of Glasgow</a>
 
 ## Languages
 <table align="center">
