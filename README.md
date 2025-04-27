@@ -1,5 +1,5 @@
 # Hi, I'm Ross! 👋
-Currently studying Software Engineering <sup>(Year 4)</sup> at <a href="https://www.gla.ac.uk/">University of Glasgow</a> with a 17.92 GPA
+Currently studying Software Engineering <sup>(Year 4)</sup> at <a href="https://www.gla.ac.uk/">University of Glasgow</a>
 
 ## Languages
 <table align="center">
